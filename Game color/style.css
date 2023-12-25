@@ -1,0 +1,38 @@
+#field td {
+	width: 150px;
+	height: 150px;
+	border: 2px solid black;
+	text-align: center;
+    font-size: 1.2em;
+    cursor: pointer;
+    transition: background-color .3s ease;
+}
+p{
+    font-size: 40px;
+}
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.pink {
+	background: rgb(255, 0, 234);
+}
+.pink:hover {
+    background: rgb(160, 59, 146);
+}
+
+.blue {
+	background: rgb(11, 0, 128);
+}
+.blue:hover {
+    background: rgb(12, 38, 66);
+}
+
+.fiol {
+	background: rgb(153, 0, 255);
+}
+.fiol:hover {
+    background: rgb(60, 27, 79);
+}
