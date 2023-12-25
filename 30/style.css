@@ -1,0 +1,9 @@
+body{
+text-align: center;
+}
+.right {
+	background-color: green;
+}
+.wrong {
+	background-color: red;
+}
