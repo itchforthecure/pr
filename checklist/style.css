@@ -1,0 +1,19 @@
+body {
+	text-align: center;
+}
+
+#list {
+	padding: 0;
+}
+
+#list span {
+	margin-right: 10px;
+}
+#list .remove, #list .mark {
+	color: rgb(255, 0, 0);
+	cursor: pointer;
+}
+
+#list .done {
+	text-decoration: line-through;
+}
